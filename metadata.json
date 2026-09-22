@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Jaakko CV",
+  "description": "Portfolio of Jaakko Kallio",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
